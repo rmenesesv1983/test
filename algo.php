@@ -1,0 +1,5 @@
+<?
+
+echo "huevos riki";
+
+?>
